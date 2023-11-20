@@ -4,8 +4,8 @@
 
 A beginner-friendly user dashboard built with pure React.js, offering a straightforward structure for easy understanding. This project provides a clean and interactive interface for users to manage their information and activities.
 
-![Dashboard Preview](![React App - Personal - Microsoft​ Edge 11_20_2023 7_07_21 PM](https://github.com/Muhammed-shamal/Basic-user-dashboardInterface/assets/108850156/820c1773-ec0a-4c63-b5ff-eb9495d3e8e2)
-)
+![Dashboard Preview]![React App - Personal - Microsoft​ Edge 11_20_2023 7_07_21 PM](https://github.com/Muhammed-shamal/User-Dashboard-with-React.js/assets/108850156/3cbca666-f1c8-44e4-9319-5a988d2d50cf)
+
 
 ## Features
 
